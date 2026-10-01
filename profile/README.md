@@ -7,7 +7,6 @@
 <p align="center">
   <b>XFlySim 连飞平台 · 在线飞行网络 · 空管与活动</b>
 </p>
----
 
 ## 👋 欢迎来到 XFlySim
 

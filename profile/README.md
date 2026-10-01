@@ -17,7 +17,7 @@
 
 ## 👋 欢迎来到 XFlySim
 
-XFlySim 是一个飞行模拟连飞（Online Flying）平台，为全球飞行模拟爱好者提供一个真实、有序、开放的在线飞行环境。
+XFlySim 是一个飞行模拟连飞平台，为全球飞行模拟爱好者提供一个真实、有序、开放的在线飞行环境。
 
 在这里，你可以：
 
@@ -26,6 +26,7 @@ XFlySim 是一个飞行模拟连飞（Online Flying）平台，为全球飞行�
 - 🎉 **参加活动** — 参与定期举办的连飞活动，与众多飞友一同起降、巡航，感受繁忙空域的乐趣
 - 🔊 **语音通讯** — 通过 XVoice 语音软件与管制员、机组进行语音通话
 
+**官网地址**：`www.xflysim.com`
 **服务器地址**：`ol.xflysim.com`
 
 ## 📖 快速上手
@@ -53,16 +54,11 @@ XFlySim 空管扇区文件（EuroScope 扇区数据），用于管制席位搭�
 
 - 地址：<https://github.com/XFlySim/XFlySim-EuroScorp-Sector>
 
-### ⚙️ .github
-
-组织公共配置文件（Profile README、Issue/PR 模板等）。
-
-- 地址：<https://github.com/XFlySim/.github>
-
 ## 🤝 加入我们
 
 无论你是飞行模拟爱好者，还是对空管、开发感兴趣的朋友，都欢迎加入 XFlySim：
 
+- 参与[连线飞行](https://www.xflysim.com)
 - 参与[文档编写](https://github.com/XFlySim/XFlySim-Document)
 - 在[文档站](https://docs.xflysim.com)反馈问题与建议
 - 关注平台活动与公告

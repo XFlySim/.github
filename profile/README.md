@@ -7,12 +7,6 @@
 <p align="center">
   <b>XFlySim 连飞平台 · 在线飞行网络 · 空管与活动</b>
 </p>
-
-<p align="center">
-  <a href="https://docs.xflysim.com"><img src="https://img.shields.io/badge/文档站-docs.xflysim.com-646CFF?style=for-the-badge&logo=vitepress&logoColor=white"></a>
-  <a href="https://github.com/XFlySim"><img src="https://img.shields.io/badge/Organization-XFlySim-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
 ---
 
 ## 👋 欢迎来到 XFlySim
